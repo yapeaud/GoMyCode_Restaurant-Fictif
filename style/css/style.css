@@ -1,0 +1,25 @@
+.hero-section {
+    background-image: url('/assets/images/hero.jpg');
+    /* Remplacez par une image de plat */
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-section h1 {
+    font-size: 3rem;
+    margin-top: 5px;
+}
+
+.hero-section button {
+    margin-top: 20px;
+}
+
+.py {
+    padding-top: 180px;
+}
